@@ -101,7 +101,7 @@ More insights can be drawn from the dataset by interacting with the dashbaord
 
   ## HR Analysis Video Presentation
 
-  The Project was thouroughly expalained Orally using loom video websites
+  The Project was thouroughly expalained using loom video websites
   
   This is the link to the video:
   
