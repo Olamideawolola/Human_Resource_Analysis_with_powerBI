@@ -50,6 +50,11 @@ The Human_Resource dataset has 38 columns and 1470 rows
 
   ## Analysis
    **Keyword Analysis Meaning**
+  - Attrition meaning :- Attrition refers to the gradual reduction in the size or strength of a workforce, typically through natural processes such as 
+    resignations, retirements, or voluntary departures.
+  - Yes Attrition: Indicates that an employee has left the organization voluntarily, contributing to the attrition rate.
+  - No Attrition: Indicates that an employee is still with the organization and has not voluntarily departed, contributing to employee retention.
+
   
   ### The socio-economics characteristics of the employee attrition are analyzed below
 
@@ -93,6 +98,15 @@ More insights can be drawn from the dataset by interacting with the dashbaord
 - Ensure competitive compensation to recognize and reward employees for their contributions, fostering motivation, job satisfaction, and overall retention.
 - Prevent dullness by introducing job variety, allowing employees to engage in diverse tasks, promoting skill development, and sustaining enthusiasm in their 
   roles.
+
+  ## HR Analysis Video Presentation
+
+  The Project was thouroughly expalained Orally using loom video websites
+  
+  This is the link to the video:
+  
+  https://www.loom.com/share/7956c88ce0fc4c26897b23a83f49d49c?sid=1dce3e79-3faf-4da6-b8fb-1907cbc0beff
+  
 
 
 
