@@ -49,6 +49,7 @@ The Human_Resource dataset has 38 columns and 1470 rows
   ![](HR_Analytics_Dax_measure.png)
 
   ## Analysis
+   **Keyword Analysis Meaning**
   
   ### The socio-economics characteristics of the employee attrition are analyzed below
 
@@ -77,6 +78,10 @@ Employees with lower job satisfaction levels exhibit higher turnover rates compa
 ![](Attrition_By_Business_Travel.png)
 
 Employees who travel more frequently experience higher turnover rates. This may be linked to factors such as burnout, job dissatisfaction, or the challenges of maintaining work-life balance while frequently on the move.
+
+More insights can be drawn from the dataset by interacting with the dashbaord
+
+![](HR_Analysis_Dashboard_.png)
 
 ## Conclusions and Recommendations 
 
